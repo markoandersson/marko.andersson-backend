@@ -26,9 +26,15 @@ provider:
   #environment: ${file(env.yml):${self:provider.stage}}
 
 functions:
-  hello:
-    handler: handler.hello
+  resume:
+    handler: handler.resume
     events:
       - http:
-          path: hello
+          path: resume.json
+          method: get
+  description:
+    handler: handler.description
+    events:
+      - http:
+          path: resume.json/description
           method: get

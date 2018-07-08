@@ -1,16 +1,23 @@
-export const hello = async (event, context, callback) => {
-  const response = {
-    statusCode: 200,
-    body: JSON.stringify({
-      message: `Go Serverless v1.0! ${(await message({ time: 1, copy: 'Your function executed successfully!'}))}`,
-    }),
-  };
+import resumeJson from './resume';
+import ResumeService from './src/resume-service';
 
-  callback(null, response);
+const service = new ResumeService(resumeJson);
+
+function returnResponse(callback, response) {
+    const resp = {
+        statusCode: 200,
+        body: JSON.stringify(response)
+    };
+
+    callback(null, resp);
+}
+
+export const resume = async (event, context, callback) => {
+
+    returnResponse(callback, resumeJson);
 };
 
-const message = ({ time, ...rest }) => new Promise((resolve, reject) => 
-  setTimeout(() => {
-    resolve(`${rest.copy} (with a delay)`);
-  }, time * 1000)
-);
+export const description = async (event, context, callback) => {
+
+  returnResponse(callback, service.description());
+};

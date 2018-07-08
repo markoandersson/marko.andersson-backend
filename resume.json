@@ -1,0 +1,302 @@
+{
+  "basics": {
+    "name": "Marko Andersson",
+    "label": "I've gained experience from the software industry since 2007. I'm passionate about object-oriented programming and I get excited when I see objects with nice relations, well-defined behavior and well thought APIs. I speak for single responsibility principle, rich domain models, etc.   My expertise covers all the way from the back-end development with JavaEE and Spring framework to the latest front-end technologies such as React and Redux. I may even be a full stack developer.  I've learned the hard way that code should be clean, readable, intuitive, duplication free and covered by automated tests. We're not writing code for computers, but for other developers. I take the quality of my work very seriously and thus I test my code. I never settle with the first implementation.   Microservices and cloud-native applications are the next big thing and I'm proud that I've had a chance to be part of the team which design and develop those services with continuous delivery and lean principles using as much automation as possible.  I try to teach, help and mentor, I listen and learn. I'm happy to share my knowledge and I expect others to do the same. Lately, I've been learning microservice-architectures, DevOps, latest and greatest Javascript technologies, lean software development, and other cool stuff. Continuous learning and improvement is the only way of keeping up with the industry.",
+    "picture": "",
+    "email": "",
+    "phone": "",
+    "website": "https://markoandersson.info",
+    "summary": "",
+    "location": {
+      "address": "",
+      "postalCode": "Finland",
+      "city": "Jyväskylä",
+      "countryCode": "FI",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "",
+        "url": "https://twitter.com/marko_andersson"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "",
+        "url": "https://www.linkedin.com/in/markoandersson/"
+      },
+      {
+        "network": "GitHub",
+        "username": "@marko_andersson",
+        "url": "https://github.com/markoandersson"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Solteq Oyj",
+      "position": "Senior Developer",
+      "website": "",
+      "startDate": "2014-09-01",
+      "summary": "Designing and developing microservice architectures using Spring Boot/Cloud, modern front-end development with JS/React/Redux using ES2015. Contributing to a continuous delivery pipeline with automated testing and fast deployment and feedback cycles. Trying to adopt lean software development principles.  Finding migration paths when transforming a monolith application to a separate microservices.  Development of large enterprise web application using Spring, Spring boot, JEE, Hibernate, and JSP. UI test automation with Serenity-framework.  Trying to increase awareness of how to deal with legacy code, especially how to add new features without adding complexity to the existing code.   Refactoring of existing code to reduce complexity and improve readability. Whining about missing unit tests and trying to convince how important good tests are.  Various cloud and DevOps stuff.",
+      "highlights": []
+    },
+    {
+      "company": "Star Arcade",
+      "position": "Senior software developer",
+      "website": "",
+      "startDate": "2012-05-01",
+      "summary": "Designing and implementing CMS-system for game developers to modify, synchronizing and publishing game related data to test and production databases.  Designing and implementing highly available and scalable communication server systems. Enterprise communication system based on JMS. Web applications. Server controlling and monitoring. Collecting and presenting history data. Different types of REST-interfaces for clients. Data access optimization with clustered databases (Cassandra). User interfaces with Vaadin. Leading project team.",
+      "highlights": [],
+      "endDate": "2014-09-01"
+    },
+    {
+      "company": "Kilosoft Oy",
+      "position": "Software engineer / Senior SW engineer",
+      "website": "",
+      "startDate": "2007-01-01",
+      "summary": "Designing and implementing various different types of software, mainly web based applications, for customers. User management systems, Certificate management systems, public key infrastructure (PKI) Database design, integration and migration. Software architecture design, testing, documentation, project planning, requirement specification, and reporting, and Scrum-related tasks. Interacting with customers.",
+      "highlights": [],
+      "endDate": "2012-05-01"
+    },
+    {
+      "company": "University of Jyväskylä",
+      "position": "Trainee",
+      "website": "",
+      "startDate": "2006-06-01",
+      "summary": "",
+      "highlights": [],
+      "endDate": "2006-11-01"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Jyväskylä",
+      "area": "",
+      "studyType": "Master's degree",
+      "startDate": "2002-01-01",
+      "gpa": "",
+      "courses": [],
+      "endDate": "2006-01-01"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Supporting IPS-systems with Netflow",
+      "publisher": "University of Jyväskylä",
+      "releaseDate": "2006-11-29",
+      "website": "http://research.jyu.fi/laila/IPS_Netflow_Gradu.pdf",
+      "summary": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "Java",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Spring Framework",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Unit Testing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "REST",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "MySQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "React.js",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microservices",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Redux",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Continuous Delivery",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Docker",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Ansible",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Lean Software Development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JavaScript",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "SQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Spring",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Java Enterprise Edition",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Hibernate",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JMS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Web Services",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Continuous Integration",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "HTML",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Design Patterns",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Web Applications",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Git",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Software Design",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Cassandra",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Architecture",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Scrum",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Domain Modeling",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Test Automation",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Test Driven Development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Vagrant",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Azure",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Cloud Development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Amazon Web Services (AWS)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "DevOps",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "Finnish",
+      "fluency": null
+    },
+    {
+      "language": "English",
+      "fluency": null
+    }
+  ],
+  "references": [
+    {
+      "name": "Jani Immonen - Sparta Consulting",
+      "reference": "Marko is a hard working, analytical professional, and a pleasure to work with. His contribution to server system design and development has been invaluable. I will gladly recommend Marko for his software design, development, and communcational skills."
+    },
+    {
+      "name": "Ville Törmälä - Solteq Oyj",
+      "reference": "If you want an experienced software development professional in your team, look for guys like Marko. He is equipped with excellent technical skills and can handle any technical problem. Every team also needs members who want to create solutions with excellent quality and push team's technical standards forward. That's why me and other Marko's team members greatly appreciate his attitude of not being satisfied with mediocre results. Marko also is one the guys who is not only familiar with agile and lean ways of working but knows how to do it in practice."
+    },
+    {
+      "name": "Tuomas-Matti Soikkeli - Nordcloud",
+      "reference": "Marko's enthusiasm to clean code is unparalleled. But more importantly, Markos aura generates clean code around him. I owe him a great thanks for teaching me how to imagine code. It is not the syntax or the functions, but a poem which describes your intentions. With this in mind, I can write readable and robust code that every developer after me will understand.   Also, Marko will tell very bad jokes."
+    },
+    {
+      "name": "Juha Heimonen - Flowa",
+      "reference": "Marko is a wonder-boy on what comes to Java and especially Spring! I had the honor to work with him for a year, and learned soooo much about the good practices what comes to keeping code in order and patterns in place.    Marko is an avid learner who manages to inspire others as well, as teach ways to become a better programmer. +10 would work with him again!"
+    }
+  ]
+}
