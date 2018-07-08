@@ -17,8 +17,6 @@ custom:
     domainName: "api.markoandersson.info"
     certificateName: "*.markoandersson.info"
     endpointType: regional
-    basePath: ${self:provider.stage}
-    stage: ${self:provider.stage}
     createRoute53Record: true
 
 provider:
