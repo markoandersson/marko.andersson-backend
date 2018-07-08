@@ -11,13 +11,14 @@ plugins:
 custom:
   webpack:
     webpackConfig: ./webpack.config.js
-    includeModules: false
+    includeModules: true
 
 provider:
   name: aws
   runtime: nodejs8.10
   stage: dev
   region: eu-central-1
+  memorySize: 256
   # To load environment variables externally
   # rename env.example to env.yml and uncomment
   # the following line. Also, make sure to not

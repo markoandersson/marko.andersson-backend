@@ -1,11 +1,7 @@
 language: node_js
 
 node_js:
-- node
-
-cache:
-  directories:
-  - node_modules
+- '10'
 
 before_script:
 - npm install -g serverless
