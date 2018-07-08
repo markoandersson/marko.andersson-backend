@@ -5,6 +5,7 @@ service: marko-andersson-backend
 plugins:
   - serverless-webpack
   - serverless-offline
+  - serverless-domain-manager
 
 # serverless-webpack configuration
 # Enable auto-packing of external modules
@@ -12,6 +13,13 @@ custom:
   webpack:
     webpackConfig: ./webpack.config.js
     includeModules: true
+  customDomain:
+    domainName: "api.markoandersson.info"
+    certificateName: "*.markoandersson.info"
+    endpointType: regional
+    basePath: ${self:provider.stage}
+    stage: ${self:provider.stage}
+    createRoute53Record: true
 
 provider:
   name: aws
