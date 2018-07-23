@@ -6,7 +6,9 @@ class ResumeService {
     }
 
     description() {
-        return this.json.basics.label;
+        return {
+            description: this.json.basics.label
+        }
     }
 }
 
