@@ -12,6 +12,6 @@ describe('Test Resume service', () => {
 
     test('should return description', () => {
 
-        expect(service.description()).toEqual('test description');
+        expect(service.description().description).toEqual('test description');
     });
 });
