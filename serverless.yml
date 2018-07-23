@@ -45,3 +45,4 @@ functions:
       - http:
           path: resume.json/description
           method: get
+          cors: true
