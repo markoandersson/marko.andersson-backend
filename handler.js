@@ -1,5 +1,7 @@
 import resumeJson from './resume';
 import ResumeService from './src/resume-service';
+import middy from 'middy';
+import {cors} from 'middy/middlewares';
 
 const service = new ResumeService(resumeJson);
 
@@ -12,12 +14,15 @@ function returnResponse(callback, response) {
     callback(null, resp);
 }
 
-export const resume = async (event, context, callback) => {
+const resumeFunction = async (event, context, callback) => {
 
     returnResponse(callback, resumeJson);
 };
 
-export const description = async (event, context, callback) => {
+const descriptionFunction = async (event, context, callback) => {
 
   returnResponse(callback, service.description());
 };
+
+export const resume = middy(resumeFunction).use(cors());
+export const description = middy(descriptionFunction).use(cors());
