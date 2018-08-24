@@ -39,10 +39,10 @@ functions:
       - http:
           path: resume.json
           method: get
-  description:
-    handler: handler.description
+  books:
+    handler: handler.books
     events:
       - http:
-          path: resume.json/description
+          path: books
           method: get
           cors: true
