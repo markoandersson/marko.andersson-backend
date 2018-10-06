@@ -33,7 +33,7 @@ const fetchBooksFromGoodreads = async (event, context, callback) => {
     books.each(function () {
         const title = $(this).find('title').text()
         const author = $(this).find('author_name').text()
-        const image = $(this).find('book_image_url').text()
+        const image = $(this).find('book_large_image_url').text()
 
         const data = {
             author,
