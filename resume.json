@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Marko Andersson",
-    "label": "I've gained experience from the software industry since 2007. I'm passionate about object-oriented programming and I get excited when I see objects with nice relations, well-defined behavior and well thought APIs. I speak for single responsibility principle, rich domain models, etc.   My expertise covers all the way from the back-end development with JavaEE and Spring framework to the latest front-end technologies such as React and Redux. I may even be a full stack developer.  I've learned the hard way that code should be clean, readable, intuitive, duplication free and covered by automated tests. We're not writing code for computers, but for other developers. I take the quality of my work very seriously and thus I test my code. I never settle with the first implementation.   Microservices and cloud-native applications are the next big thing and I'm proud that I've had a chance to be part of the team which design and develop those services with continuous delivery and lean principles using as much automation as possible.  I try to teach, help and mentor, I listen and learn. I'm happy to share my knowledge and I expect others to do the same. Lately, I've been learning microservice-architectures, DevOps, latest and greatest Javascript technologies, lean software development, and other cool stuff. Continuous learning and improvement is the only way of keeping up with the industry.",
+    "label": "Clean coder | Full stack unicorn working with Java and JavaScript | Lean and \"real agile\" enthusiast",
     "picture": "",
     "email": "",
     "phone": "",
     "website": "https://markoandersson.info",
-    "summary": "",
+    "summary": "Back in my early career, I was converting requirements to software using the first working solution. Not anymore.  I realized how important it was to create sustainable solutions and that led me to the world of clean code, refactoring, design patterns, unit testing, working with legacy code, clean architecture, and other disciplines, which ensured that my solutions were simple and elegant. But most of all, they were written for other developers, not for myself. I'm still recommended continuously for these subjects.  Nowadays I've learned that it doesn't matter how elegant the solution is if it doesn't solve the user's problems. I'm on a path to learn Lean principles and true agile development, and how we can use feedback loops to guide our development. I prefer collaboration and conversations over requirement documents and contracts.   I consider myself as a full stack developer as my expertise covers the back-end development with Java and Spring framework, the latest front-end JavaScript technologies such as React and Redux. I know about DevOps and how it can be used to enable fast feedback loops.  I try to teach, help and mentor, I listen and learn constantly. I'm happy to share my knowledge, and I expect others to do the same.",
     "location": {
       "address": "",
       "postalCode": "Finland",
@@ -96,12 +96,67 @@
       "keywords": []
     },
     {
+      "name": "Vue.js",
+      "level": "",
+      "keywords": []
+    },
+    {
       "name": "Spring Framework",
       "level": "",
       "keywords": []
     },
     {
       "name": "Unit Testing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Web Services",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Continuous Integration",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Design Patterns",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Web Applications",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Software Design",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Architecture",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Scrum",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Test Automation",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Test Driven Development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Agile Methodologies",
       "level": "",
       "keywords": []
     },
@@ -121,32 +176,7 @@
       "keywords": []
     },
     {
-      "name": "Microservices",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Redux",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Continuous Delivery",
-      "level": "",
-      "keywords": []
-    },
-    {
       "name": "Docker",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Ansible",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Lean Software Development",
       "level": "",
       "keywords": []
     },
@@ -181,27 +211,7 @@
       "keywords": []
     },
     {
-      "name": "Web Services",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Continuous Integration",
-      "level": "",
-      "keywords": []
-    },
-    {
       "name": "HTML",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Design Patterns",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Web Applications",
       "level": "",
       "keywords": []
     },
@@ -211,7 +221,32 @@
       "keywords": []
     },
     {
-      "name": "Software Design",
+      "name": "Microsoft Azure",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Amazon Web Services (AWS)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microservices",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Continuous Delivery",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Ansible",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Lean Software Development",
       "level": "",
       "keywords": []
     },
@@ -221,47 +256,12 @@
       "keywords": []
     },
     {
-      "name": "Architecture",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Scrum",
-      "level": "",
-      "keywords": []
-    },
-    {
       "name": "Domain Modeling",
       "level": "",
       "keywords": []
     },
     {
-      "name": "Test Automation",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Test Driven Development",
-      "level": "",
-      "keywords": []
-    },
-    {
       "name": "Vagrant",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Microsoft Azure",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Cloud Development",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Amazon Web Services (AWS)",
       "level": "",
       "keywords": []
     },
@@ -283,8 +283,12 @@
   ],
   "references": [
     {
-      "name": "Jani Immonen - Sparta Consulting",
+      "name": "Jani Immonen - Napko",
       "reference": "Marko is a hard working, analytical professional, and a pleasure to work with. His contribution to server system design and development has been invaluable. I will gladly recommend Marko for his software design, development, and communcational skills."
+    },
+    {
+      "name": "Jussi Kuittinen - Apus Consulting Oy",
+      "reference": "Marko just might be the cleanest coder I have ever had the pleasure of knowing. Having worked with him for about a year, I have learned to really appreciate his drive to improving the maintainability and elegance of the code around and ahead of him. And: his approach is practical and supportive of others.  However, to me the greatest thing about him is that he is a team-first -kind of guy. He will accept responsibility of the team’s deliverables, can do any role (architect, coder, tester, scrum master) and do it well, will strive for perfecting the processes and Is always ready to help a team member in need. He is the kind of guy you really want in your team.   I would genuinely like to work with him again."
     },
     {
       "name": "Ville Törmälä - Solteq Oyj",
